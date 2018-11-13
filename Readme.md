@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Constantine Cher](https://up.htmlacademy.ru/htmlcss/23/user/118885).
-
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
